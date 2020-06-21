@@ -1,0 +1,82 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar ul{
+    display: flex;
+    margin-left: 60px;
+}
+.navbar ul li{
+    list-style: none;
+    margin-top: 30px;
+    margin-left: 55px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 500;
+    color: black;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 500;
+    background-color: transparent;
+}
+#contact{
+    padding-left: 700px;
+}
+.about h1{
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 60px;
+}
+.about p{
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 60px;
+    padding-bottom: 100px;
+}
+.about hr{
+    width: 220px;
+    margin-left: 42%;
+}
+.about img{
+    width: 280px;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+.footer_content{
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+.footer_content h1{
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 120px;
+    font-weight: 100;
+    justify-content: center;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+}
+.icons a img{
+    height: 30px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.footer_content p{
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding-bottom: 60px;
+}
